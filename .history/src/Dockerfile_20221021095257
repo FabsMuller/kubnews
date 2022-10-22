@@ -1,0 +1,2 @@
+From bitnami/minideb:latest
+Run apt update && apt install curl mc git --yes

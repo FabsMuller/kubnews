@@ -1,0 +1,12 @@
+apiVersion: apps/v1
+kind: deployment
+metadata:
+  name: postgre
+spec:
+  selector:
+    matchLabels:
+      app: postgre
+  template:
+    metadata:
+      labels:
+        app
