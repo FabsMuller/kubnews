@@ -1,1 +1,1 @@
-# kubnews Jornada Devops 
+# kubnews Devops J
